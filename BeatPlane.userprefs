@@ -1,12 +1,15 @@
-﻿<Properties StartupItem="Assembly-UnityScript.unityproj">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/aniScript.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/planeController.js">
     <Files>
-      <File FileName="Assets/Script/planeController.js" Line="90" Column="22" />
-      <File FileName="Assets/Script/enemyController.js" Line="61" Column="2" />
-      <File FileName="Assets/Script/enemyProductor.js" Line="18" Column="16" />
-      <File FileName="Assets/Script/bulletController.js" Line="23" Column="36" />
+      <File FileName="Assets/Script/planeController.js" Line="58" Column="145" />
+      <File FileName="Assets/Script/enemyController.js" Line="1" Column="1" />
+      <File FileName="Assets/Script/enemyProductor.js" Line="1" Column="1" />
+      <File FileName="Assets/Script/bulletController.js" Line="1" Column="1" />
       <File FileName="Assets/Script/aniScript.js" Line="1" Column="1" />
+      <File FileName="Assets/Script/HelpSceneScript.js" Line="19" Column="57" />
+      <File FileName="Assets/Script/DataStatics.js" Line="16" Column="32" />
+      <File FileName="Assets/Script/Start.js" Line="32" Column="55" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
