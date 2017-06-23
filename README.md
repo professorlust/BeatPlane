@@ -54,4 +54,4 @@
 # 预览图
 ![image](https://github.com/spxvszero/BeatPlane/blob/master/ScreenShot/1.png)
 
-![image](https://github.com/spxvszero/BeatPlane/blob/master/ScreenShot/1.png)
+![image](https://github.com/spxvszero/BeatPlane/blob/master/ScreenShot/2.png)
